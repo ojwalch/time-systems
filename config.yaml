@@ -1,0 +1,15 @@
+# The settings behind every output. Change a value and rerun `python -m permanent_time`.
+
+# Date the analysis is run as of.
+as_of: 2026-10-31
+
+# First winter considered (skips World War II emergency clocks).
+period_start: 1946
+
+# Cities whose winter clock changed more recently than this many years before as_of are
+# too soon to tell and are left out of every count.
+stuck_min_years: 3
+
+# Countries left out of every count, with the reason.
+excluded_countries:
+  CN: "One time zone across about 60 degrees of longitude"

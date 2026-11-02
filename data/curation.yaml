@@ -1,0 +1,26 @@
+# Notes and sources on individual clock changes, keyed by country code and the first winter
+# on the new clock. The tz database is the source of the dates used; these are context.
+
+US-1974:
+  notes: "Year-round daylight saving time enacted in January 1974 for a two-year trial; repealed after one winter."
+  sources:
+    - https://www.congress.gov/crs_external_products/R/PDF/R45208/R45208.6.pdf
+
+CL-2015:
+  notes: "Chile kept summer time through the winter of 2015 with no announced end; restored winter time in May 2016."
+
+CU-2027:
+  notes: "Too soon to tell. Cuba is keeping summer time through the winter of 2026-27 and has announced a return to switching on 7 November 2027, after the end of the clock data used here."
+  sources:
+    - http://www.cuba.cu/otras/2026-10-25/cuba-mantendra-horario-de-verano-hasta-noviembre-de-2027/69459
+    - https://en.cibercuba.com/noticias/2026-10-24-u1-e74-s27061-nid343708-cuba-mantendra-horario-verano-noviembre-2027-retrasara
+
+MA-2027:
+  notes: "Morocco returned to GMT on 20 September 2026 (Decree No. 2.26.530); too soon to tell."
+  sources:
+    - https://www.cg.gov.ma/en/node/13036
+
+RU-2012:
+  notes: "Russia kept summer time year-round from March 2011 and returned to winter time on 26 October 2014."
+  sources:
+    - https://interfax.com/newsroom/top-stories/41758/

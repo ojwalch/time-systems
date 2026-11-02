@@ -1,0 +1,92 @@
+daylight_band,end,time,share_still,people_ever_had,us_share_would_get
+Under 7½ hours,sunrise,7:45 am,1.0,194955000,0.0
+Under 7½ hours,sunrise,8:00 am,0.997024,193568228,0.0
+Under 7½ hours,sunrise,8:15 am,0.976379,189515321,0.0
+Under 7½ hours,sunrise,8:30 am,0.88245,187667675,0.0
+Under 7½ hours,sunrise,8:45 am,0.788799,167472324,0.0
+Under 7½ hours,sunrise,9:00 am,0.535828,155880384,0.0
+Under 7½ hours,sunset,4:15 pm,0.816193,194334469,0.0
+Under 7½ hours,sunset,4:30 pm,0.884991,195459779,0.0
+Under 7½ hours,sunset,4:45 pm,0.919604,195459779,0.0
+Under 7½ hours,sunset,5:00 pm,0.98327,195459779,0.0
+Under 7½ hours,sunset,5:15 pm,0.999018,195459779,0.0
+Under 7½ hours,sunset,5:30 pm,1.0,195459779,0.0
+Under 7½ hours,sunset,5:45 pm,1.0,195459779,0.0
+7½ to 8 hours,sunrise,7:45 am,0.992653,188920190,0.0
+7½ to 8 hours,sunrise,8:00 am,0.936788,174356276,0.0
+7½ to 8 hours,sunrise,8:15 am,0.710673,162619500,0.0
+7½ to 8 hours,sunrise,8:30 am,0.55162,141888204,0.0
+7½ to 8 hours,sunrise,8:45 am,0.358025,102833802,0.0
+7½ to 8 hours,sunrise,9:00 am,0.165305,69946367,0.0
+7½ to 8 hours,sunset,4:15 pm,0.886895,136609159,0.0
+7½ to 8 hours,sunset,4:30 pm,0.925771,177211653,0.0
+7½ to 8 hours,sunset,4:45 pm,0.943332,198778022,0.0
+7½ to 8 hours,sunset,5:00 pm,0.972591,199712292,0.0
+7½ to 8 hours,sunset,5:15 pm,0.992304,199712292,0.0
+7½ to 8 hours,sunset,5:30 pm,0.997893,199712292,0.0
+7½ to 8 hours,sunset,5:45 pm,0.999799,199712292,0.0
+8 to 8½ hours,sunrise,7:45 am,0.851404,130993218,1.0
+8 to 8½ hours,sunrise,8:00 am,0.743341,119865139,1.0
+8 to 8½ hours,sunrise,8:15 am,0.639916,100294120,1.0
+8 to 8½ hours,sunrise,8:30 am,0.599865,74432689,1.0
+8 to 8½ hours,sunrise,8:45 am,0.373321,32967477,0.8943
+8 to 8½ hours,sunrise,9:00 am,0.206853,12953120,0.1666
+8 to 8½ hours,sunset,4:15 pm,0.872463,65131471,0.162
+8 to 8½ hours,sunset,4:30 pm,0.927673,94039088,0.8722
+8 to 8½ hours,sunset,4:45 pm,0.953308,113042940,0.9444
+8 to 8½ hours,sunset,5:00 pm,0.966664,145825611,0.9904
+8 to 8½ hours,sunset,5:15 pm,0.991385,150518914,1.0
+8 to 8½ hours,sunset,5:30 pm,0.992935,153255307,1.0
+8 to 8½ hours,sunset,5:45 pm,0.999544,153255307,1.0
+8½ to 9 hours,sunrise,7:45 am,0.841416,156358996,1.0
+8½ to 9 hours,sunrise,8:00 am,0.659303,114200031,1.0
+8½ to 9 hours,sunrise,8:15 am,0.464629,77980808,0.8196
+8½ to 9 hours,sunrise,8:30 am,0.381312,51549380,0.5902
+8½ to 9 hours,sunrise,8:45 am,0.153057,33513123,0.4874
+8½ to 9 hours,sunrise,9:00 am,0.154381,17355908,0.2112
+8½ to 9 hours,sunset,4:15 pm,0.730857,51252924,0.2652
+8½ to 9 hours,sunset,4:30 pm,0.818253,77774583,0.5469
+8½ to 9 hours,sunset,4:45 pm,0.918072,136921475,0.7792
+8½ to 9 hours,sunset,5:00 pm,0.938345,164929162,0.8419
+8½ to 9 hours,sunset,5:15 pm,0.956674,181241052,1.0
+8½ to 9 hours,sunset,5:30 pm,0.98027,187872183,1.0
+8½ to 9 hours,sunset,5:45 pm,0.99371,191429397,1.0
+9 to 9½ hours,sunrise,7:45 am,0.614501,406294829,1.0
+9 to 9½ hours,sunrise,8:00 am,0.409826,341353236,1.0
+9 to 9½ hours,sunrise,8:15 am,0.349948,300957385,0.9739
+9 to 9½ hours,sunrise,8:30 am,0.2597,117868241,0.2164
+9 to 9½ hours,sunrise,8:45 am,0.047902,60145125,0.1577
+9 to 9½ hours,sunrise,9:00 am,0.025006,11394946,0.0345
+9 to 9½ hours,sunset,4:15 pm,0.249508,34508122,0.0097
+9 to 9½ hours,sunset,4:30 pm,0.630818,136719381,0.4458
+9 to 9½ hours,sunset,4:45 pm,0.504768,277656964,0.6408
+9 to 9½ hours,sunset,5:00 pm,0.585887,374173800,0.8753
+9 to 9½ hours,sunset,5:15 pm,0.760294,421222274,0.9494
+9 to 9½ hours,sunset,5:30 pm,0.848264,445584397,1.0
+9 to 9½ hours,sunset,5:45 pm,0.965675,453009020,1.0
+9½ to 10 hours,sunrise,7:45 am,0.419171,262555980,0.9955
+9½ to 10 hours,sunrise,8:00 am,0.429708,132439488,0.5636
+9½ to 10 hours,sunrise,8:15 am,0.104624,65440677,0.4263
+9½ to 10 hours,sunrise,8:30 am,0.082615,47792633,0.2708
+9½ to 10 hours,sunrise,8:45 am,0.003585,20832380,0.0273
+9½ to 10 hours,sunrise,9:00 am,0.0,2203709,0.0
+9½ to 10 hours,sunset,4:15 pm,0.012754,6666738,0.0
+9½ to 10 hours,sunset,4:30 pm,0.562489,111945091,0.0354
+9½ to 10 hours,sunset,4:45 pm,0.647539,283326263,0.4817
+9½ to 10 hours,sunset,5:00 pm,0.756367,562611897,0.6187
+9½ to 10 hours,sunset,5:15 pm,0.827526,719114437,0.7552
+9½ to 10 hours,sunset,5:30 pm,0.909405,791151495,0.97
+9½ to 10 hours,sunset,5:45 pm,0.956393,821104698,0.9977
+10 to 10½ hours,sunrise,7:45 am,0.165648,116398678,0.9924
+10 to 10½ hours,sunrise,8:00 am,0.215797,49302506,0.9199
+10 to 10½ hours,sunrise,8:15 am,0.185879,33173572,0.6515
+10 to 10½ hours,sunrise,8:30 am,0.333421,2732190,0.0152
+10 to 10½ hours,sunrise,8:45 am,0.0,179657,0.0
+10 to 10½ hours,sunrise,9:00 am,,0,0.0
+10 to 10½ hours,sunset,4:15 pm,1.0,1449671,0.0
+10 to 10½ hours,sunset,4:30 pm,1.0,13063416,0.0
+10 to 10½ hours,sunset,4:45 pm,0.961698,39190237,0.0046
+10 to 10½ hours,sunset,5:00 pm,0.87761,231488204,0.0426
+10 to 10½ hours,sunset,5:15 pm,0.96405,522999335,0.1033
+10 to 10½ hours,sunset,5:30 pm,0.979269,896453002,0.6043
+10 to 10½ hours,sunset,5:45 pm,0.980092,1069163195,0.9974
